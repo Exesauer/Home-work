@@ -1,0 +1,18 @@
+﻿body {
+    font-size: 24px;
+}
+.green {
+    color: rgb(0, 128, 0);
+}
+.red {
+    color: rgb(255, 0, 0);
+}
+.blue {
+    color: rgb(0, 0, 255);
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight:bold;
+}
